@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
-- 🌱 I’m currently learning **Reactjs,Javascript**
+- 🌱 I’m currently learning **Reactjs,Javascript**,**All about FE**,..
 
 - 💬 Ask me about **html, css, js...**
 
