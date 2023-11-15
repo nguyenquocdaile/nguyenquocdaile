@@ -8,6 +8,3 @@
   **nguyenquocdaile@gmail.com**
   <br>
   <a href="https://www.linkedin.com/in/nguyenquocdaile/"> in/nguyenquocdaile </a>
-
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyenquocdaile&theme=vue-dark&border_radius=5)](https://git.io/streak-stats)
