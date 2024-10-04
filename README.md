@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nguyenquocdaile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/nguyenquocdaile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate and dedicated front-end developer with a knack for creating seamless, user-centric web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in bringing digital designs to life, ensuring they are not only visually stunning but also highly functional and accessible.</h3>**
 
